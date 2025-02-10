@@ -1,7 +1,5 @@
 import csv
 
-
-valid_animals = ['cat', 'dog']
 animal_type = input("Which adoptable animals do you want to see? ")
 animal_type = animal_type.strip().lower()
 
